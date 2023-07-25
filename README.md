@@ -1,3 +1,3 @@
 [Uploading KOTLIN PROGRAMMING LANGUAGE BY AWICKO FINETECH.pdf…]()
-# Della
+# DELLA
 Config files for my GitHub profile.
